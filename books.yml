@@ -16,5 +16,5 @@ spring:
         format_sql: true
   application:
     name: Books
-server:
-  port:8081
+  server:
+    port:8081
