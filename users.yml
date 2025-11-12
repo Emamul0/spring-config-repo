@@ -1,3 +1,5 @@
+books:
+  url: http://localhost:8081/librarry/getallbooks
 eureka:
   client:
     service-url:
@@ -14,3 +16,4 @@ spring:
     properties:
       hibernate:
         format_sql: true
+        
